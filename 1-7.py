@@ -37,7 +37,7 @@ def get_result(hand_diff):
         return 'lose'
 
 def view_result(result):
-    print(result[result])
+    print(results[result])
 
 start_message()
 
